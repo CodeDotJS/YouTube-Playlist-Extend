@@ -3,4 +3,4 @@
 <p align="center"> Automate task to fetch YouTube playlist content without any limitation.</p>
 
 <br>
-Hacktoberfest Issue - [#1](https://github.com/CodeDotJS/YouTube-Playlist-Extend/issues/1)
+Hacktoberfest Issue -[Issue 1](https://github.com/CodeDotJS/YouTube-Playlist-Extend/issues/1)
